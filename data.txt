@@ -1,4 +1,0 @@
-{ "nid":"1","valor":"matematicas" }
-{ "nid":"2","valor":"fisica" }
-{ "nid":"3","valor":"quimica" }
-{ "nid":"4","valor":"literatura" }
